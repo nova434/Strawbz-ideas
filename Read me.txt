@@ -1,0 +1,27 @@
+# Open Mindspace – Idea Archive
+
+Welcome to my public idea repository. This space is where I jot down raw thoughts, future plans, experimental concepts, and everything in between. Some of these may evolve into projects, others may remain just sparks—but they’re all part of the process.
+
+## Structure
+
+Each idea is stored as a Markdown file in the `/ideas` directory. Files are numbered sequentially for reference (e.g., `001-first-idea.md`, `002-next-idea.md`).
+
+## Purpose
+
+- To keep a traceable record of ideas over time  
+- To reflect on patterns and themes in my thinking  
+- To make collaboration possible in the future, if the right people come along  
+
+## Notes
+
+- All content here is **read-only** for now  
+- You're welcome to browse, get inspired, and reach out if anything resonates  
+- Feedback is welcome but not required—I'm just building in public
+
+## Contact
+
+If you're curious, inspired, or want to collaborate, feel free to reach out via GitHub or any linked contact in the idea files.
+
+---
+
+**Everything starts as a thought. This is where I keep mine.**
